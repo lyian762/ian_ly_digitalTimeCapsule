@@ -1,0 +1,102 @@
+
+.heading{
+    background-color: #5F5D9C;
+    width: 20%;
+    margin: 0 auto;
+    text-align: center;
+}
+h3 ol li{
+    list-style-type: none;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #A4CE95; 
+    background-color: #5F5D9C;
+    display:block;
+    width: 20%;
+}
+
+h3 ol li a{
+    color: #A4CE95;
+    
+}
+
+.bio{
+    margin: 10px 100px 20px 100px
+}
+
+body{
+    background-color: #5F5D9C;
+    background-image: url("../img/mygif.gif");
+    background-repeat:repeat;
+    background-size: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.bio,.heading{
+    color: #F4EDCC;
+}
+
+.bio{
+    margin:auto;
+    padding: 25px;
+    display: flex;
+    outline: solid thick;
+    background-color:#6196A6;
+    width: 50%;
+    align-content: center;
+    justify-content: center;
+}
+
+.mygif{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+figcaption{
+    padding: 2px;
+    text-align: center;
+    font-size: 16px;
+}
+
+
+.myimages{
+    outline: solid thick;
+    color:#F4EDCC;
+    padding: 40px;
+    background-color:#6196A6;
+    margin: auto;
+    display:flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+
+.spotifyembed {
+    color:#F4EDCC;
+    padding: 40px;
+    background-color:#6196A6;
+    outline: solid thick;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+    width: 25%;
+    justify-content: center;
+    align-content:center;
+    margin-bottom: 3%;
+}
+
+.masterflex{
+    padding: 40px;
+    margin: auto;
+    width: 40%;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
